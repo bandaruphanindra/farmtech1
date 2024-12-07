@@ -42,7 +42,7 @@
     </table>
 
     <h4>Shipping Address</h4>
-    <form action="placeOrder" method="post">
+    <form action="payment.jsp" method="post">
         <div class="form-group">
             <label for="address">Address:</label>
             <textarea name="address" id="address" class="form-control" rows="3" required></textarea>

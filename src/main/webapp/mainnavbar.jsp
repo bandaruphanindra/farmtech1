@@ -86,7 +86,7 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="loginDropdown">
                         <a class="dropdown-item" href="/adminlogin">Admin Login</a>
-                        <a class="dropdown-item" href="/buyerlogin">Buyer Login</a>
+                        <a class="dropdown-item" href="/buyerlogin.jsp">Buyer Login</a>
                         <a class="dropdown-item" href="/farmerlogin">Farmer Login</a>
                     </div>
                 </li>
